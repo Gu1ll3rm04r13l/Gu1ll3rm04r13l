@@ -1,9 +1,25 @@
-### Hi there 👋
+### Hi there 👋 I am a developer in constant training with knowledge in C/C++, C#, Java, HTML, CSS, Javascript, React and MySQL. I currently work for the company "IM Black" where is located in the city of Linares, Chile. I am looking to take my first steps in the environment to enrich myself with knowledge and experiences.
 
+Passionate about technology and business. Focused on growing and developing my skills every day.
+
+# Front-End 📕
+- HTML + CSS
+- SASS
+- TypeScript || JavaScript
+- React
+
+# Back-End 📘
+- C#, Java
+- MySQL 
+
+
+# Miscellaneous 📚
+- Agile Methodology (Scrum, diagrama de Gantt, Lean & Kanban)
+- Git + Github
+- Ubuntu + Windows
+
+- 📫 How to reach me: https://www.linkedin.com/in/guillermo-ariel-del-fresno/
 <!--
-**Gu1ll3rm04r13l/Gu1ll3rm04r13l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
