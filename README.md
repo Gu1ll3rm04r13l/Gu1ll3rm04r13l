@@ -21,10 +21,10 @@ Passionate about technology and business. Focused on growing and developing my s
 
 📫 How to reach me: https://www.linkedin.com/in/guillermo-ariel-del-fresno/
 
-🌐 Visit my portfolio website for more information and to get in touch.
+
 
 <!--
-
+🌐 Visit my portfolio website for more information and to get in touch.
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
