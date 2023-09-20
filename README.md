@@ -19,8 +19,9 @@ Passionate about technology and business. Focused on growing and developing my s
 - Ubuntu + Windows
 
 
-'' 📫 How to reach me: https://www.linkedin.com/in/guillermo-ariel-del-fresno/
-'' 🌐 Visit my portfolio website for more information and to get in touch.
+📫 How to reach me: https://www.linkedin.com/in/guillermo-ariel-del-fresno/
+
+🌐 Visit my portfolio website for more information and to get in touch.
 
 <!--
 
