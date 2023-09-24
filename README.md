@@ -10,7 +10,8 @@ Passionate about technology and business. Focused on growing and developing my s
 
 # Back-End 📘
 - C#, Java
-- MySQL 
+- MySQL
+- Docker
 
 
 # Miscellaneous 📚
