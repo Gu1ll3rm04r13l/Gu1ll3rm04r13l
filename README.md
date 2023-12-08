@@ -1,4 +1,4 @@
-### Hi there 👋 I am a developer in constant training with knowledge in C/C++, C#, Java, HTML, CSS, Javascript, React and MySQL. I currently work for the company "IM Black" where is located in the city of Linares, Chile. I am looking to take my first steps in the environment to enrich myself with knowledge and experiences.
+### Hi there 👋 I am a developer in constant training with knowledge in C/C++, C#, Java, HTML, CSS, Tailwind CSS, Javascript, React and MySQL. 
 
 Passionate about technology and business. Focused on growing and developing my skills every day.
 
