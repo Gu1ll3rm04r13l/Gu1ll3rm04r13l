@@ -1,37 +1,26 @@
-### Hi there 👋 I am a developer in constant training with knowledge in C/C++, C#, Java, HTML, CSS, Tailwind CSS, Javascript, React and MySQL. 
+# Hi there 👋 I'm Ariel!
 
-Passionate about technology and business. Focused on growing and developing my skills every day.
+I am a **Software Developer & QA Automation Engineer** in constant training. I specialize in building robust applications and ensuring their quality through automated testing.
 
-# Front-End 📕
-- HTML + CSS
-- SASS
-- TypeScript || JavaScript
-- React
+### 🛠️ Tech Stack
 
-# Back-End 📘
-- C#, Java
-- MySQL
-- Docker
+| Area | Technologies |
+| :--- | :--- |
+| **Front-End** | HTML5, CSS3, Tailwind CSS, JavaScript (ES6+), TypeScript, React |
+| **Back-End** | Java, C#, C/C++, MySQL, Docker |
+| **Testing & QA** | Selenium WebDriver, TestNG, Maven, Cucumber |
+| **Miscellaneous** | Git & GitHub, Agile (Scrum), Ubuntu & Windows |
 
+### 📊 Current Focus
+- 🔭 Working on: **Full Stack Development & Automation Frameworks**.
+- 🌱 Learning: **Mobile Testing and CI/CD Pipelines**.
+- 💬 Ask me about: **React, Java, and how I broke (and then fixed) my first automation script.**
 
-# Miscellaneous 📚
-- Agile Methodology (Scrum, diagrama de Gantt, Lean & Kanban)
-- Git + Github
-- Ubuntu + Windows
+---
 
+### 📬 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guillermo-ariel-del-fresno/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-25292e?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-delfresnoariel.vercel.app)
 
-📫 How to reach me: https://www.linkedin.com/in/guillermo-ariel-del-fresno/
-
-
-
-<!--
-🌐 Visit my portfolio website for more information and to get in touch.
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+*"Quality is not an act, it is a habit."* 🚀
