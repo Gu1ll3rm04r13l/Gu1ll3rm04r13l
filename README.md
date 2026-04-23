@@ -1,26 +1,61 @@
-# Hi there 👋 I'm Ariel!
+# 👋 Hi, I'm Ariel — Full Stack Developer & AI Automation Engineer
 
-I am a **Software Developer & QA Automation Engineer** in constant training. I specialize in building robust applications and ensuring their quality through automated testing.
-
-### 🛠️ Tech Stack
-
-| Area | Technologies |
-| :--- | :--- |
-| **Front-End** | HTML5, CSS3, Tailwind CSS, JavaScript (ES6+), TypeScript, React |
-| **Back-End** | Java, C#, C/C++, MySQL, Docker |
-| **Testing & QA** | Selenium WebDriver, TestNG, Maven, Cucumber |
-| **Miscellaneous** | Git & GitHub, Agile (Scrum), Ubuntu & Windows |
-
-### 📊 Current Focus
-- 🔭 Working on: **Full Stack Development & Automation Frameworks**.
-- 🌱 Learning: **Mobile Testing and CI/CD Pipelines**.
-- 💬 Ask me about: **React, Java, and how I broke (and then fixed) my first automation script.**
+Freelance developer based in **Miramar, Buenos Aires, Argentina**. I build full-stack web applications and AI-powered automation systems that solve real business problems — not just code that runs, but solutions that scale.
 
 ---
 
-### 📬 Connect with me:
+## 🛠️ Tech Stack
+
+| Area | Technologies |
+| :--- | :--- |
+| **Front-End** | React, Next.js, TypeScript, Tailwind CSS, JavaScript (ES6+) |
+| **Back-End** | Node.js, Supabase (PostgreSQL + Auth + Storage), REST APIs |
+| **AI & Automation** | n8n, Groq API, LLM integrations, WhatsApp/Instagram via Meta Cloud API |
+| **Infra & DevOps** | Vercel, Docker, VPS (Hostinger), Git & GitHub |
+| **Testing & QA** | Selenium WebDriver, TestNG, Maven, Cucumber |
+| **Other** | Agile (Scrum), C#, Java, C/C++, MySQL |
+
+---
+
+## 🔭 What I'm building right now
+
+- **Customer service AI agent** for WhatsApp & Instagram — Meta Cloud API → Chatwoot (self-hosted) → n8n → human handoff
+- **Automation services** for freelance clients using n8n workflows + LLM integrations
+- Deepening my stack with **Claude Code + MCP**, Groq API, and self-hosted infrastructure
+
+---
+
+## 🚀 Projects in production
+
+### [TBS Guild](https://portfolio-delfresnoariel.vercel.app)
+WoW guild management platform integrating multiple external APIs — live data, roster management, and tooling for a real gaming community.
+
+### [Mítico](https://portfolio-delfresnoariel.vercel.app)
+Production site for a local bar. Built with React and Tailwind CSS — clean UI, real client, real deployment.
+
+---
+
+## 📊 Focus areas
+
+- 🤖 **AI automation** — n8n workflows, LLM APIs, conversational agents
+- 🌐 **Full stack development** — Next.js + Supabase + TypeScript
+- 🔧 **Self-hosted infrastructure** — Chatwoot, n8n Cloud vs VPS tradeoffs
+- 📱 **Mobile testing & CI/CD pipelines** — currently expanding here
+
+---
+
+## 🎓 Background
+
+- **Certified Tech Developer** — Digital House (co-created with Mercado Libre & Globant)
+- Programming foundations in **C/C++** (Instituto Hilet) and **C#** (UTN)
+
+---
+
+## 📬 Connect with me
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guillermo-ariel-del-fresno/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-25292e?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-delfresnoariel.vercel.app)
 
 ---
-*"Quality is not an act, it is a habit."* 🚀
+
+*"Build things that work. Automate the rest."* 🚀
