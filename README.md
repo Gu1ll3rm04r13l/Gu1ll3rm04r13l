@@ -9,7 +9,7 @@ Freelance developer based in **Miramar, Buenos Aires, Argentina**. I build full-
 | Area | Technologies |
 | :--- | :--- |
 | **Front-End** | React, Next.js, TypeScript, Tailwind CSS, JavaScript (ES6+) |
-| **Back-End** | Node.js, Supabase (PostgreSQL + Auth + Storage), REST APIs |
+| **Back-End** | Node.js, Neon (PostgreSQL), Supabase (Auth + Storage), REST APIs |
 | **AI & Automation** | n8n, Groq API, LLM integrations, WhatsApp/Instagram via Meta Cloud API |
 | **Infra & DevOps** | Vercel, Docker, VPS (Hostinger), Git & GitHub |
 | **Testing & QA** | Selenium WebDriver, TestNG, Maven, Cucumber |
