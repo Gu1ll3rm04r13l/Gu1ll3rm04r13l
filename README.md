@@ -20,17 +20,24 @@ Freelance developer based in **Miramar, Buenos Aires, Argentina**. I build full-
 ## 🔭 What I'm building right now
 
 - **Customer service AI agent** for WhatsApp & Instagram — Meta Cloud API → Chatwoot (self-hosted) → n8n → human handoff
-- **Automation services** for freelance clients using n8n workflows + LLM integrations
+- **Delfresno Automations** — landing page + hub de servicios de automatización con IA
+- **Dental AI** — aplicación para el sector salud dental con integración de IA
 - Deepening my stack with **Claude Code + MCP**, Groq API, and self-hosted infrastructure
 
 ---
 
 ## 🚀 Projects in production
 
-### [TBS Guild](https://portfolio-delfresnoariel.vercel.app)
+### [Delfresno Automations](https://delfresno-automations.vercel.app)
+Hub central de servicios de automatización. Landing optimizada (SEO & Core Web Vitals) para ofrecer soluciones de flujos de trabajo inteligentes y agentes IA.
+
+### [Dental AI](https://dental-ai-pi.vercel.app)
+Aplicación especializada para el sector salud dental que integra capacidades de IA para mejorar la gestión y atención.
+
+### [TBS Guild](https://tbs-guild.vercel.app)
 WoW guild management platform integrating multiple external APIs — live data, roster management, and tooling for a real gaming community.
 
-### [Mítico](https://portfolio-delfresnoariel.vercel.app)
+### [Mítico](https://mitico-theta.vercel.app)
 Production site for a local bar. Built with React and Tailwind CSS — clean UI, real client, real deployment.
 
 ---
