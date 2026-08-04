@@ -37,7 +37,7 @@ Aplicación especializada para el sector salud dental que integra capacidades de
 ### [TBS Guild](https://tbs-guild.vercel.app)
 WoW guild management platform integrating multiple external APIs — live data, roster management, and tooling for a real gaming community.
 
-### [Mítico](https://mitico-theta.vercel.app)
+### [Mítico](https://mitico-carta.vercel.app)
 Production site for a local bar. Built with React and Tailwind CSS — clean UI, real client, real deployment.
 
 ---
